@@ -1,0 +1,2 @@
+# mini-hackathone
+JS-file
